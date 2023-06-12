@@ -2,9 +2,9 @@
 
 Olá, sou o Ruan Braz!
 
-Tenho 24 anos. Nascido e criado no Rio de Janeiro, RJ e comecei a trilhar meu caminho na programação recententemente.
+Tenho 24 anos. Nascido e criado no Rio de Janeiro, RJ e comecei a trilhar meu caminho na programação recentemente.
 
-Ainda não sei muito bem no que pretento me especializar, mas tenho interesse em área de estatística, data science e automatização e monitoramento de processos.
+Ainda não sei muito bem no que pretendo me especializar, mas tenho interesse em área de estatística, data science e automatização e monitoramento de processos.
 
 ✍ Graduando em Análise e Desenvolvimento de Sistemas pela UniCarioca - Bolsista do ProUni
 
