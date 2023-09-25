@@ -4,12 +4,12 @@
 
 Hello, I'm Ruan Braz!
 
-I'm 24 years old. Born and raised in Rio de Janeiro, RJ and I started walking my path in programming recently.
+I'm 25 years old. Born and raised in Rio de Janeiro, RJ and I started walking my path in programming recently.
 
 I am interested in statistics, data science, AI and front-end. Currently studying HTML, CSS, Javascript, react, typescript and firebase applications.
 
-✍ Graduating in Systems Analysis and Development at UniCarioca - ProUni scholarship holder
-
+✍ Graduated degree in Systems Analysis and Development at UniCarioca - ProUni scholarship holder
+    Postgraduate in Data Science at UniCarioca
 🙂 Pronouns: He/His
 
 
@@ -18,12 +18,12 @@ I am interested in statistics, data science, AI and front-end. Currently studyin
 
 Olá, sou o Ruan Braz!
 
-Tenho 24 anos. Nascido e criado no Rio de Janeiro, RJ e comecei a trilhar meu caminho na programação recentemente.
+Tenho 2 anos. Nascido e criado no Rio de Janeiro, RJ e comecei a trilhar meu caminho na programação recentemente.
 
 Ainda não sei muito bem no que pretendo me especializar, mas tenho interesse em área de estatística, data science e automatização e monitoramento de processos.
 
-✍ Graduando em Análise e Desenvolvimento de Sistemas pela UniCarioca - Bolsista do ProUni
-
+✍ Graduado em Análise e Desenvolvimento de Sistemas pela UniCarioca - Bolsista do ProUni
+    Pós graduando em Ciência de dados pela UniCarioca
 🙂 Pronomes: Ele/Dele
 
 <div align="center">
