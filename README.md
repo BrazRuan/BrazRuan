@@ -4,7 +4,7 @@
 
 Hello, I'm Ruan Braz!
 
-I'm 25 years old. Born and raised in Rio de Janeiro, RJ and I started walking my path in programming recently.
+I'm 27 years old. Born and raised in Rio de Janeiro, RJ and I started walking my path in programming recently.
 
 I am interested in statistics, data science, AI and front-end. Currently studying HTML, CSS, Javascript, react, typescript and firebase applications.
 
@@ -18,7 +18,7 @@ I am interested in statistics, data science, AI and front-end. Currently studyin
 
 Olá, sou o Ruan Braz!
 
-Tenho 25 anos. Nascido e criado no Rio de Janeiro, RJ e comecei a trilhar meu caminho na programação recentemente.
+Tenho 27 anos. Nascido e criado no Rio de Janeiro, RJ e comecei a trilhar meu caminho na programação recentemente.
 
 Ainda não sei muito bem no que pretendo me especializar, mas tenho interesse em área de estatística, ciência de dados, automatização e monitoramento de processos. Também busco juntar conhecimento com Inteligência Artificia.
 
