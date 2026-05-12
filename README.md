@@ -1,41 +1,170 @@
-🚩🏴
+# Olá! Eu sou Ruan Braz 👋
 
------------------------------------------------<h2>English-en</h2>-----------------------------------------------------------------
+🎯 Analista de Dados com experiência em análise, tratamento e visualização de dados, atuando em ambientes orientados a métricas e tomada de decisão.
 
-Hello, I'm Ruan Braz!
+🎓 Pós-graduado em Ciência de Dados e formado em Análise e Desenvolvimento de Sistemas, com foco em Business Intelligence, Analytics e soluções orientadas a dados.
 
-I'm 27 years old. Born and raised in Rio de Janeiro, RJ and I started walking my path in programming recently.
+---
 
-I am interested in statistics, data science, AI and front-end. Currently studying HTML, CSS, Javascript, react, typescript and firebase applications.
+## 🚀 Sobre mim
 
-✍ Graduated degree in Systems Analysis and Development at UniCarioca - ProUni scholarship holder
-    Postgraduate in Data Science at UniCarioca
-🙂 Pronouns: He/His
+Atualmente atuo como Analista de Dados na área da saúde, desenvolvendo dashboards, análises e indicadores para apoiar decisões estratégicas e melhoria contínua de processos.
 
+Tenho experiência com:
+- Power BI
+- SQL / MySQL
+- Python para análise de dados
+- Excel Avançado
+- KPIs e Data Visualization
+- Tratamento e padronização de dados
+- Dashboards e relatórios gerenciais
 
+Também venho aprofundando conhecimentos em:
+- Machine Learning
+- Inteligência Artificial
+- Modelagem preditiva
+- Segmentação e análise comportamental
+- Cloud Computing (AWS/GCP)
+- Git e versionamento
 
------------------------------------------------<h2>Português-br</h2>-----------------------------------------------------------------
+---
 
-Olá, sou o Ruan Braz!
+## 🛠️ Tecnologias & Ferramentas
 
-Tenho 27 anos. Nascido e criado no Rio de Janeiro, RJ e comecei a trilhar meu caminho na programação recentemente.
+### Linguagens & Dados
+- Python
+- SQL
+- MySQL
 
-Ainda não sei muito bem no que pretendo me especializar, mas tenho interesse em área de estatística, ciência de dados, automatização e monitoramento de processos. Também busco juntar conhecimento com Inteligência Artificia.
+### Data Analytics & BI
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Scikit-Learn
 
-✍ Graduado em Análise e Desenvolvimento de Sistemas pela UniCarioca - Bolsista do ProUni
-    Pós graduando em Ciência de dados pela UniCarioca
-🙂 Pronomes: Ele/Dele
+### Outros
+- Git / GitHub
+- Salesforce
+- AWS (conceitos)
+- GCP (conceitos)
 
-<div align="center">
-  <a href="https://github.com/brazruan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brazruan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brazruan&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+---
 
-<div>
-  <a href = "mailto:ruanbrazdearaujo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ruan-braz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://t.me/RBraz" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-</div
+## 📊 Áreas de Interesse
+
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Inteligência Artificial
+- Big Data
+- Data Visualization
+- CRM Analytics
+- Product Analytics
+
+---
+
+## 📚 Atualmente estudando
+
+- Machine Learning aplicado a negócios
+- Modelos preditivos
+- Engenharia de dados
+- IA Generativa
+- Recommendation Systems
+
+---
+
+## 📫 Contato
+
+- LinkedIn: www.linkedin.com/in/ruan-braz
+- Email: ruanbrazdearaujo@gmail.com
+  ---
+
+⭐ Sempre buscando aprender, evoluir tecnicamente e transformar dados em insights relevantes.
   
-🚩🏴
+--------------------------------------------------------------------- h2 English - EN ----------------------------------------------------------------------------------------------------------------
+
+# Hi! I'm Ruan Braz 👋
+
+🎯 Data Analyst with experience in data analysis, cleaning, and visualization, working in data-driven environments focused on metrics and decision-making.
+
+🎓 Postgraduate degree in Data Science and a background in Systems Analysis and Development, focused on Business Intelligence, Analytics, and data-driven solutions.
+
+---
+
+## 🚀 About Me
+
+Currently working as a Data Analyst in the healthcare sector, developing dashboards, reports, and performance indicators to support strategic decisions and continuous process improvement.
+
+Experience with:
+- Power BI
+- SQL / MySQL
+- Python for data analysis
+- Advanced Excel
+- KPIs and Data Visualization
+- Data cleaning and standardization
+- Dashboards and business reporting
+
+Currently improving skills in:
+- Machine Learning
+- Artificial Intelligence
+- Predictive Modeling
+- Customer Segmentation & Behavioral Analysis
+- Cloud Computing (AWS/GCP)
+- Git & Version Control
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages & Data
+- Python
+- SQL
+- MySQL
+
+### Data Analytics & BI
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Scikit-Learn
+
+### Others
+- Git / GitHub
+- Salesforce
+- AWS (basic knowledge)
+- GCP (basic knowledge)
+
+---
+
+## 📊 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Machine Learning
+- Artificial Intelligence
+- Big Data
+- Data Visualization
+- CRM Analytics
+- Product Analytics
+
+---
+
+## 📚 Currently Learning
+
+- Machine Learning for business applications
+- Predictive modeling
+- Data Engineering
+- Generative AI
+- Recommendation Systems
+
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/ruan-braz
+- Email: ruanbrazdearaujo@gmail.com
+
+---
+
+⭐ Passionate about learning, improving technical skills, and turning data into meaningful insights.
